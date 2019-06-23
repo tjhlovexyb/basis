@@ -19,3 +19,4 @@ void SelectSort(vector<int> ans)
 	for(auto i : ans)
 		cout << i << " ";
 	cout << "\n";
+}
